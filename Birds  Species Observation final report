@@ -1,1 +1,141 @@
 
+Bird Species Observation Analysis
+
+1. Project Overview
+Objective
+To analyze bird species observations across forest and grassland ecosystems to understand patterns in species diversity, temporal trends, and environmental influences. The goal is to generate actionable insights for biodiversity conservation and habitat management.
+
+2. Dataset Summary
+    • Total Records: 17,077
+    • Habitat Types: Forest, Grassland
+    • Year of Observation: 2018
+    • Total Unique Species: 127
+    • Source Files: Multi-sheet Excel files (Forest and Grassland parks)
+
+3. Methodology
+    1. Data Cleaning:
+        ◦ Loaded and merged all Excel sheets from forest and grassland datasets.
+        ◦ Cleaned and standardized key columns (e.g., Date, Temperature, Humidity, Sky, Sex).
+    2. Exploratory Data Analysis (EDA):
+        ◦ Conducted visual analysis of observation trends by time, location, species, and environmental factors.
+    3. Environmental & Conservation Focus:
+        ◦ Assessed how temperature, humidity, disturbance, and conservation status affect bird activity.
+
+
+
+
+
+
+
+4. Exploratory Data Analysis
+4.1 Temporal Trends
+🟦 []
+[]
+Interpretation:
+    • Observations are from 2018 only.
+    • May and June showed peak bird activity, indicating likely breeding/migration periods.
+    • July showed a decline in activity, potentially due to weather or reduced survey effort.
+
+4.2 Spatial Trends
+🟩 []
+Interpretation: Forest and Grassland recorded nearly equal numbers of observations, suggesting both are vital for biodiversity monitoring.
+🟫 []
+Interpretation:
+    • MONO-0054 had the highest observation count.
+    • Plots with consistently high activity could be biodiversity hotspots and deserve regular monitoring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.3 Species Trends
+🟨 Total Unique Species: 127
+🟨 []
+Interpretation:
+    • Northern Cardinal and Carolina Wren were the most frequently observed.
+    • Some species are abundant and widely distributed, while rarer species may need focused attention.
+
+
+
+
+
+
+
+
+
+
+5. Environmental & Conservation Insights
+5.1 Temperature vs Bird Count
+📊 []
+Insight:
+    • Peak bird activity at 10–15°C; activity drops after 35°C.
+    • Recommendation: Schedule surveys during moderate temperatures (10–25°C).
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.2 Humidity vs Bird Count
+📊 []
+Insight:
+    • Activity is high at low (<40%) and high (>70%) humidity.
+    • Recommendation: Early morning or humid conditions may yield better bird detections.
+
+
+
+
+
+
+
+
+
+
+
+
+5.3 Watchlist Status
+📊 []
+Insight:
+    • 2.2% of all observations are at-risk species.
+    • Recommendation: Continue monitoring these habitats; they support vulnerable bird species.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4 Disturbance Impact
+📊 []
+Insight:
+    • Bird counts decrease with serious disturbance.
+    • Recommendation: Limit human interference near high-activity plots.
+
+6. Conclusion
+    • Both forest and grassland ecosystems support a rich variety of bird species.
+    • The most productive observation periods were late spring to early summer.
+    • Environmental factors like temperature, humidity, and disturbance significantly influence bird activity.
+    • The presence of watchlist species makes these habitats critical for conservation.
